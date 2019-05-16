@@ -24,7 +24,7 @@
     "keycode": "^2.1.0",
     "lodash": "^3.9.3",
     "narcissus": "^1.0.0",
-    "react-center-component": "https://github.com/uberall/react-center-component#v3.1.0"
+    "react-center-component": "https://github.com/uberall/react-center-component#v3.1.1"
   },
   "peerDependencies": {
     "prop-types": "^15.6.0",

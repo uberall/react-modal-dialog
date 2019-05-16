@@ -1632,9 +1632,9 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-"react-center-component@https://github.com/uberall/react-center-component#v3.1.0":
-  version "3.1.0"
-  resolved "https://github.com/uberall/react-center-component#e82740f5b4b04b57717808caf33012294e1d3ec0"
+"react-center-component@https://github.com/uberall/react-center-component#v3.1.1":
+  version "3.1.1"
+  resolved "https://github.com/uberall/react-center-component#08a0c61daa0cfa63f04b1c00fa27f8915a97664b"
   dependencies:
     lodash "^4.0.0"
 
