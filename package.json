@@ -1,6 +1,6 @@
 {
   "name": "react-modal-dialog",
-  "version": "4.0.6",
+  "version": "5.0.0",
   "description": "A simple, idiomatic, and declarative way to launch modal dialogs in ReactJS",
   "repository": {
     "type": "git",
@@ -27,9 +27,9 @@
     "react-center-component": "^3.0.0"
   },
   "peerDependencies": {
+    "prop-types": "15.6.0",
     "react": "16.0.0",
-    "react-dom": "16.0.0",
-    "prop-types": "15.6.0"
+    "react-dom": "16.0.0"
   },
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
