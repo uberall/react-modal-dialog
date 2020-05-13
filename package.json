@@ -17,7 +17,7 @@
   "author": "Qiming Weng",
   "license": "MIT",
   "dependencies": {
-    "active-event-stack": "^1.0.0",
+    "active-event-stack": "https://github.com/uberall/active-event-stack#v1.0.2",
     "classnames": "^2.1.2",
     "dynamics.js": "^1.1.0",
     "immutable": "^3.7.4",
